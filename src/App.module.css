@@ -1,0 +1,26 @@
+.texto_rojo{
+  color: red;
+}
+
+.App{
+  background-color: white;
+}
+
+.titleText{
+  font: bold;
+  font-weight: 200;
+}
+
+.container {
+  display: flex;
+}
+
+.text_Usr{
+  font:bold;
+  font-family: serif;
+}
+
+.btn-group-vertical > button{
+  margin-bottom:10px;
+  border-radius:10px !important;
+}
